@@ -1,8 +1,10 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+\usepackage{graphicx}
 \begin{document}
 \title{Práctica 3}
+\includegraphics[width=0.5\textwidth]{imagen1.eps}
 \author{Sergio Vega García \\
         Técnicas experimentales~\footnote{Universidad de La Laguna}
         }
@@ -42,6 +44,14 @@ guión para la separación de sílabas, mientras que se utilizan
 tres guiones seguidos para producir un guión de los que se usan
 como signo de puntuación --- como en esta oración.
 
+\bigskip
+\begin{tabular}{|l|c|c|}
+\hline
+  Nombre & Edad & Nota \\ \hline
+  Pepe   & 24   &  10  \\ \hline
+  Juan   & 19   &  8   \\ \hline
+  Luis   & 21   &  9   \\ \hline
+\end{tabular}
 
 
 \begin{thebibliography}{00}
