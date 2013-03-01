@@ -14,7 +14,7 @@
    y deben ser escritas entre dos símbolos \$.
    Los superíndices se obtienen con el símbolo \^{}, y
    los subíndices con el símbolo \_.
-   Por ejemplo: $x^2 \tienes y^{\alpha + \beta}$.
+   Por ejemplo: $x^2 \times y^{\alpha + \beta}$.
    También se pueden escribir fórmulas centradas:
    \[h^2=a^2 + b^2 \]
 \end{abstract}
